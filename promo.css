@@ -1,0 +1,16 @@
+.imagen-contraste-reducido {
+    filter: contrast(30%); /* Ajusta el valor según sea necesario */
+}
+body{
+    background-color: #51a9f5;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: 10%;
+    background-: ;
+}
+h1{
+    font-style: oblique;
+}
+
+ 
+         
